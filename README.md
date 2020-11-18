@@ -1,1 +1,1 @@
-# Projetos_de_estudos
+# Apenas alguns pedaços de codigos para fixação de alguns conteudos.
