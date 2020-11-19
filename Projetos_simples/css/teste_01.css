@@ -1,0 +1,21 @@
+.recebe-tudo {
+    padding: 15px 25px 15px 25px;
+}
+
+.cabecalho {
+
+    background-color: rgb(187, 185, 185);
+
+}
+
+.coluna-esquerda {
+    width: 30%;
+    background-color: rgb(172, 15, 235);
+    float: left;
+}
+
+.coluna-direita {
+    width: 30%;
+    background-color: rgb(32, 47, 99);
+    float: right;
+}
